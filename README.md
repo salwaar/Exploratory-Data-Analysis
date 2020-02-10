@@ -1,5 +1,7 @@
 # Exploratory-Data-Analysis
 ADM HW2
+by Salwa Afrah, Daniele Trappolini, 
+Dario Russo 
 
 # Homework 2 - Soccer analytics
 
