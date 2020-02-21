@@ -1,5 +1,6 @@
 # Exploratory-Data-Analysis
-ADM HW2
+Algorithmic Methods of Data Mining
+project 2
 by Salwa Afrah, Daniele Trappolini, 
 Dario Russo 
 
